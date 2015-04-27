@@ -7,6 +7,23 @@ header, main, footer {
   margin: 0 auto;
 }
 
+sidebar {
+  float: left;
+  width: 20%;
+}
+
+section {
+  float: left;
+  width: 80%;
+}
+
+footer {
+  text-align: center;
+}
+
+
+
+
 header > img {
   max-height: 100%;
   max-width: 100%;
